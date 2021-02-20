@@ -5,6 +5,10 @@ A web application, designed to give users the ability keep track of their expens
   - Name
   - Balance
 
+![](https://scontent.ftpa1-1.fna.fbcdn.net/v/t1.0-0/p640x640/152275653_1802011736635442_5658133406167728746_o.jpg?_nc_cat=109&ccb=3&_nc_sid=730e14&_nc_ohc=8phwmbdbAXkAX9Dlkn2&_nc_ht=scontent.ftpa1-1.fna&tp=6&oh=6fb2bfd4018ac6d28f98a875d12f83a9&oe=60577E4E)
+![](https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-0/p480x480/151971580_1802011783302104_69867252899651504_o.jpg?_nc_cat=102&ccb=3&_nc_sid=730e14&_nc_ohc=jaULCU32GFwAX_2o4i2&_nc_oc=AQnkDukrCcyh0R11XjLnLeNcitkWPRjb0UDw-3sa09V1irB3Y9eT7JF-9qOmRLo5Hy2SpdHlno7YP9VWxRnfF6eT&_nc_ht=scontent.ftpa1-2.fna&tp=6&oh=2c6f993bcd9a9bdd7f66de7d7d59a0c9&oe=60544353)
+![](https://scontent.ftpa1-1.fna.fbcdn.net/v/t1.0-0/p600x600/151206218_1802011839968765_4770430761819707259_o.jpg?_nc_cat=108&ccb=3&_nc_sid=730e14&_nc_ohc=UWXus3-ZgLMAX8PHbFz&_nc_ht=scontent.ftpa1-1.fna&tp=6&oh=04a9200616b6ef5957ef12804fea18f8&oe=60541044)
+
 ## Installation
 
   - Navigate to https://github.com/ken025/Percentage-React-Redux-Project.git
