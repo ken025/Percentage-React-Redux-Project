@@ -1,6 +1,8 @@
 # Welcome to: PERCENTAGE
 A web application, designed to give users the ability keep track of their expenses and their amount. Making it an ease to keep track of their spending. Users will also have access to a resource page to further their saving skills. 
 
+[Try it out!](http://percentage.surge.sh/)
+
 - Users will be able to add accounts dedicated to each expense by providing:
   - Name
   - Balance
